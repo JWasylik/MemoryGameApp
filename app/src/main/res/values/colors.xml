@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_200">#A81A7E</color>
+    <color name="purple_700">#B6679F</color>
+    <color name="purple_buttons">#6200EE</color>
+    <color name="ic_launcher_background">#8BC34A</color>
+</resources>
