@@ -14,6 +14,9 @@ This is a simple **Memory Game** application built in **Kotlin** for **Android**
 ## 📱 Screenshots
 ![Screenshot_20250403_182318-min](https://github.com/user-attachments/assets/4277d65d-d751-4044-8bf7-f0e7f7aac0de)
 
+![Screenshot_20250403_182318](https://github.com/user-attachments/assets/ffb2a607-d389-401a-a145-93ab75aa6fb2)
+
+
 
 ## 🛠️ Tech Stack
 
