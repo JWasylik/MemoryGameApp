@@ -12,9 +12,8 @@ This is a simple **Memory Game** application built in **Kotlin** for **Android**
 - 🎨 Custom UI using `ImageButton` and `GridLayout`
 
 ## 📱 Screenshots
-![Screenshot_20250403_182318](https://github.com/user-attachments/assets/ffb2a607-d389-401a-a145-93ab75aa6fb2)
+![Screenshot_20250403_182318](https://github.com/user-attachments/assets/ffb2a607-d389-401a-a145-93ab75aa6fb2)   ![Screenshot_20250403_183547](https://github.com/user-attachments/assets/78a211cb-92b8-4507-a78a-840f1e0dbf49)
 
-![Screenshot_20250403_183547](https://github.com/user-attachments/assets/78a211cb-92b8-4507-a78a-840f1e0dbf49)
 
 ![Screenshot_20250403_183613](https://github.com/user-attachments/assets/21e55935-72d0-4f73-a313-7b3540acf650)
 
