@@ -39,7 +39,7 @@ class MemoryBoardView(
         R.drawable.sharp_auto_awesome_24,
         R.drawable.baseline_celebration_24,
     )
-    private val deckResource: Int = R.drawable.baseline_density_small_24
+    private val deckResource: Int = R.drawable.baseline_blur_on_24
     private var onGameChangeStateListener: (MemoryGameEvent) -> Unit = { (e) -> }
     private val matchedPair: Stack<Tile> = Stack()
     private val logic: MemoryGameLogic = MemoryGameLogic(cols * rows / 2)
@@ -58,7 +58,7 @@ class MemoryBoardView(
                 val btn = ImageButton(gridLayout.context).also {
                     it.tag = "$row $col"
                     val layoutParams = androidx.gridlayout.widget.GridLayout.LayoutParams()
-                    it.setImageResource(R.drawable.baseline_density_small_24)
+                    it.setImageResource(R.drawable.baseline_blur_on_24)
                     it.scaleType = ImageView.ScaleType.FIT_CENTER
                     layoutParams.width = 0
                     layoutParams.height = 0
